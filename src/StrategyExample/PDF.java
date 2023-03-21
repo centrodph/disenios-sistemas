@@ -1,3 +1,5 @@
+package StrategyExample;
+
 public class PDF {
     private Documento documento;
     private Impresor impresor;

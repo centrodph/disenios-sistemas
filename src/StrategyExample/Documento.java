@@ -1,3 +1,5 @@
+package StrategyExample;
+
 import java.util.Date;
 
 public class Documento {

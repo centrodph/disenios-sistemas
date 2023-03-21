@@ -1,3 +1,5 @@
+package StrategyExample;
+
 public class Word {
     private Documento documento;
     private Impresor impresor;

@@ -1,3 +1,5 @@
+package StrategyExample;
+
 public class Txt {
     private Documento documento;
     private Impresor impresor;

@@ -1,3 +1,5 @@
+package StrategyExample;
+
 public class Autor {
     private String nombre;
 
