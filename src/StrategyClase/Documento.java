@@ -9,7 +9,7 @@ public class Documento {
     private String texto;
     private Date fechaCreacion;
 
-    private TipoDocumento tipoDocumento;
+    private TipoDocumento tipoDocumento = new NullTipoDocumento(); // NullObject pattern
 
     public void exportar() {
         this.tipoDocumento.exportar(this);
